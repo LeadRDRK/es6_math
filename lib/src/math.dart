@@ -109,8 +109,3 @@ double trunc(num x) {
   }
   return x > 0 ? x.floorToDouble() : x.ceilToDouble();
 }
-
-/// Loads the es6_math shared library.
-/// 
-/// Does nothing if the native version of the library is not imported.
-void openEs6MathLibrary(String path) {}
