@@ -35,7 +35,7 @@ void main() {
 }
 ```
 
-The `loadEs6MathLibrary` function is also defined in the vanilla variant of the library but it doesn't do anything, so it's safe to call it without even checking for it first.
+If `loadEs6MathLibrary` is not called or it fails, the vanilla implementation will be used instead. The `loadEs6MathLibrary` function is also defined in the vanilla variant of the library but it doesn't do anything, so it's safe to call it without even checking for it first.
 
 # License
 [MIT](LICENSE)
