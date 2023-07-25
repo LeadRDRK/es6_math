@@ -1,4 +1,5 @@
 # ES6 Math
+[![pub.dev](https://img.shields.io/pub/v/es6_math.svg)](https://pub.dev/packages/es6_math)
 [![Dart CI](https://github.com/LeadRDRK/es6_math/actions/workflows/dart.yml/badge.svg)](https://github.com/LeadRDRK/es6_math/actions/workflows/dart.yml)
 [![codecov](https://codecov.io/gh/LeadRDRK/es6_math/branch/main/graph/badge.svg?token=AXAXVJIBN8)](https://codecov.io/gh/LeadRDRK/es6_math)
 
