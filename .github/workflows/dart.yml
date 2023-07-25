@@ -25,6 +25,9 @@ jobs:
 
       - name: "Analyzer"
         run: dart analyze --fatal-infos .
+      
+      - name: "Build native library"
+        run: make -C native_lib
 
       - name: "Tests"
         run: dart test test/all_test.dart
