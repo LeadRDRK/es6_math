@@ -1,6 +1,6 @@
 name: es6_math
 description: Provides math functions from ES6 (ECMAScript 2015) that are currently missing in dart:math.
-version: 1.0.0
+version: 1.1.0
 repository: https://github.com/LeadRDRK/es6_math
 
 environment:
